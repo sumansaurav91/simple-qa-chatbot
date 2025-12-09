@@ -7,11 +7,13 @@
 
 ### Steps 1: Set up your project structure
 
+```
 chatbot/
 ├── .env
 ├── .gitignore
 ├── requirements.txt
 └── chatbot.py
+```
 
 ### Step 2: Install Dependencies
 * Create your ```requirement.txt```
